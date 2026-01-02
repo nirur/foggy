@@ -1,12 +1,12 @@
 :root {
     --th-1-02: white;   /* bright white */
-    --th-1-00: ivory;   /* off-white */
+    --th-1-00: #f4f5f5;   /* off-white */
     --th-1-01: #2e86ab; /* linky blue */
-    --th-1-10: #dd403a; /* primary, bright */
-    --th-1-11: #bf211e; /* primary, dark */
-    --th-1-12: #f79256; /* primary, light */
-    --th-1-20: #697a21; /* secondary */
-    --th-1-30: #3e363f; /* tertiary, dark */
+    --th-1-10: #1c4587; /* primary, bright */
+    --th-1-11: #173766; /* primary, dark */
+    --th-1-12: #1c4587; /* primary, light */
+    --th-1-20: #c2c5c6; /* secondary */
+    --th-1-30: #939393; /* tertiary, dark */
     
     --off-white:    var(--th-1-00);
     --bright-white: var(--th-1-02);
